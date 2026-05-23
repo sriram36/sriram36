@@ -39,12 +39,6 @@ Currently focused on backend systems, workflow automation, and shipping projects
 
 ---
 
-## 📊 GitHub Stats
-
-![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriram36&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram36&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 ## 📫 Get In Touch
 
