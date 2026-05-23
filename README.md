@@ -1,76 +1,54 @@
-# 👋 Hi, I'm Sriram
+# Hey, I'm Sriram 👋
 
-🚀 **Full Stack Developer | Computer Science Student**
+Full-stack developer. I build things that solve real problems — not tutorial clones.  
+Currently focused on backend systems, workflow automation, and shipping projects that get used.
 
-I’m a computer science student from Andhra Pradesh who enjoys building **real-world full-stack applications** and understanding how systems work end to end. I like working across the stack — from designing user interfaces to building backend APIs and databases.
-
-I learn best by **building projects that solve actual problems**, not just following tutorials.
-
----
-
-## 🧩 Interests & Focus
-- Full-stack web development
-- Backend APIs and workflow automation
-- Scalable system design fundamentals
-- Writing clean, maintainable code
+📍 Andhra Pradesh, India &nbsp;|&nbsp; 📬 kollisriram6@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sriram-kolli-979723219)
 
 ---
 
-## ⭐ Featured Project
+## 🚀 What I'm Working On
 
-### 🟢 LeaveFlow — WhatsApp-Based Leave Management System  
-
-LeaveFlow is an internal full-stack system built to simplify employee leave management using **WhatsApp and a web dashboard**.
-
-**My Contributions**
-- Developed backend APIs for leave requests, approvals, and tracking  
-- Built frontend components connected to backend services  
-- Implemented role-based access control and audit logging  
-- Integrated WhatsApp-based workflows for real user interaction  
-
-**Tech Used**
-- Frontend: React, Next.js  
-- Backend: FastAPI  
-- Database: PostgreSQL  
-- Integration: WhatsApp API
-
+- **LeaveFlow** — A WhatsApp-based leave management system used internally by real teams. Built with FastAPI, React, PostgreSQL, and WhatsApp API integration.
+- Exploring scalable system design and backend architecture patterns.
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🏗️ Featured Projects
 
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🟢 [LeaveFlow](https://github.com/sriram36/LeaveFlow)
+> Replaces messy leave request chains (email/WhatsApp groups) with a structured system — employees request leave via WhatsApp, managers approve via a web dashboard.
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases & Backend Services
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- Role-based access control for employees, managers, and admins
+- Full audit trail on all leave actions
+- WhatsApp webhook integration for real-time request/approval flow
+- **Stack:** React · Next.js · FastAPI · PostgreSQL · WhatsApp Business API
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriram-kolli-979723219)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kollisriram6@gmail.com)
+## 🛠️ Tech I Actually Use
+
+| Area | Tools |
+|------|-------|
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | FastAPI, Node.js, Express |
+| **Database** | PostgreSQL, MongoDB |
+| **BaaS** | Supabase |
+| **Languages** | JavaScript, Python, Java |
+| **Tools** | Git, Docker, Postman |
 
 ---
 
-> *Learning by building things that actually get used.*
+## 📊 GitHub Stats
+
+![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriram36&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram36&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📫 Get In Touch
+
+If you're working on something interesting or want to talk systems/backend — reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriram-kolli-979723219)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kollisriram6@gmail.com)
