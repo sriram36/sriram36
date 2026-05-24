@@ -12,6 +12,11 @@ Currently focused on backend systems, workflow automation, and shipping projects
 - **LeaveFlow** — A WhatsApp-based leave management system used internally by real teams. Built with FastAPI, React, PostgreSQL, and WhatsApp API integration.
 - Exploring scalable system design and backend architecture patterns.
 
+## 💼 Currently
+
+Full Stack Developer Intern @ **Zennith AI** — building document extraction 
+pipelines and REST APIs that ship to real users.  
+Internship work lives on their private GitHub, but I'm actively building here on weekends.
 ---
 
 ## 🏗️ Featured Projects
