@@ -3,7 +3,7 @@
 Full-stack developer. I build things that solve real problems — not tutorial clones.  
 Currently focused on backend systems, workflow automation, and shipping projects that get used.
 
-📍 Andhra Pradesh, India &nbsp;|&nbsp; 📬 kollisriram6@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sriram-kolli-979723219)
+📍 India &nbsp;|&nbsp; 📬 kollisriram6@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sriram-kolli-979723219)
 
 ---
 
