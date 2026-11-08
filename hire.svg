@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 150" width="830" height="150" role="img" aria-labelledby="t">
+<title id="t">POST /hire returns 202 Accepted. Email kollisriram6@gmail.com.</title>
+<defs><linearGradient id="sh" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".07"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="830" height="150" rx="16" fill="#000000"/><rect width="830" height="150" rx="16" fill="url(#sh)"/><rect x=".5" y=".5" width="829" height="149" rx="15.5" fill="none" stroke="#fff" stroke-opacity=".14"/>
+<text x="36" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#6ee7b7">$</text><text x="52" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#a3a3a3">curl -X POST github.com/sriram36/hire</text>
+<text x="36" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#c9d1d9" opacity="0">{ &quot;wanted&quot;: &quot;internship, entry-level backend or full-stack&quot;, &quot;where&quot;: &quot;Bengaluru or remote&quot; }<animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.5s" fill="freeze"/></text>
+<text x="36" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#6ee7b7" opacity="0">HTTP/1.1 202 Accepted<animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.5s" fill="freeze"/></text>
+<text x="36" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#fafafa" opacity="0">kollisriram6@gmail.com<animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.5s" fill="freeze"/></text>
+</svg>

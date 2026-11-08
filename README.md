@@ -1,53 +1,54 @@
-# Hey, I'm Sriram 👋
+<img src="banner.svg" alt="sriram. Backend-focused full-stack engineer in Bengaluru. Open to internships and entry-level roles." width="100%">
 
-Full-stack developer. I build things that solve real problems — not tutorial clones.  
-Currently focused on backend systems, workflow automation, and shipping projects that get used.
+<p align="center">
+<a href="https://portfolio.kollisriram6.workers.dev"><img src="pill-portfolio.svg" alt="Portfolio"></a>
+<a href="https://portfolio.kollisriram6.workers.dev/#decisions"><img src="pill-decisions.svg" alt="Decisions I would defend"></a>
+<a href="https://www.linkedin.com/in/sriram-kolli-979723219"><img src="pill-linkedin.svg" alt="LinkedIn"></a>
+<a href="mailto:kollisriram6@gmail.com"><img src="pill-email.svg" alt="Email"></a>
+</p>
 
-📍 India &nbsp;|&nbsp; 📬 kollisriram6@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sriram-kolli-979723219)
+<img src="career.svg" alt="Career as a git graph. Main is the B.Tech at SRKR, 2023 to 2027. PixelTests (Dec 2024 to May 2025), Zennith AI (Sep 2025 to now, paused Jun to Jul 2026) and Accenture (Jun to Jul 2026) are branches." width="100%">
 
----
+<p align="center">
+<a href="https://github.com/sriram36/LeaveFlow"><img src="card-leaveflow.svg" width="32%" alt="LeaveFlow: Leave requests over WhatsApp, approvals on a web dashboard."></a>
+<a href="https://github.com/sriram36/FinSight"><img src="card-finsight.svg" width="32%" alt="FinSight: Money advice where the model never does the arithmetic. A verifier checks every number."></a>
+<a href="https://github.com/sriram36/pharma-mlr-compliance"><img src="card-pharma.svg" width="32%" alt="pharma-mlr-compliance: A grader that is boring on purpose: 16 rules, a cache and a safe LLM fallback."></a>
+</p>
 
-## 🚀 What I'm Working On
+<p align="center">
+<img src="languages.svg" width="49%" alt="Languages by bytes of code in my public repos: Python 43%, TypeScript 31%, JavaScript 15%, HTML 5%, CSS 4%, Shell 1%, other 1%.">
+<img src="heartbeat.svg" width="49%" alt="My public pushes over the last 60 days as a heartbeat line: 95 commits in 95 pushes.">
+</p>
 
-- **LeaveFlow** — A WhatsApp-based leave management system used internally by real teams. Built with FastAPI, React, PostgreSQL, and WhatsApp API integration.
-- Exploring scalable system design and backend architecture patterns.
+<img src="stack.svg" alt="Stack. Languages: Python, TypeScript, JavaScript, Java, SQL. Backend: FastAPI, Django, Node.js, PostgreSQL, WebSockets, JWT, Pytest. Frontend: Next.js, React, Tailwind CSS. Ai: LangGraph, Azure OpenAI, RAG, LLM evaluation. Tools: Docker, Git, Playwright, n8n." width="100%">
 
-## 💼 Currently
+<img src="hire.svg" alt="POST /hire returns 202 Accepted. Email kollisriram6@gmail.com." width="100%">
 
-Full Stack Developer Intern @ **Zennith AI** — building document extraction 
-pipelines and REST APIs that ship to real users.  
-Internship work lives on their private GitHub, but I'm actively building here on weekends.
----
+<details>
+<summary>Read this page as plain text</summary>
 
-## 🏗️ Featured Projects
+<br>
 
-### 🟢 [LeaveFlow](https://github.com/sriram36/LeaveFlow)
-> Replaces messy leave request chains (email/WhatsApp groups) with a structured system — employees request leave via WhatsApp, managers approve via a web dashboard.
+**Sriram Kolli.** Backend-focused full-stack engineer in Bengaluru, India. Final-year B.Tech in Computer Science and Information Technology (SRKR Engineering College, 2023 to 2027). I build FastAPI and PostgreSQL services, agentic AI pipelines and workflow automation. Open to software engineering internships and entry-level backend or full-stack roles, in Bengaluru or remote.
 
-- Role-based access control for employees, managers, and admins
-- Full audit trail on all leave actions
-- WhatsApp webhook integration for real-time request/approval flow
-- **Stack:** React · Next.js · FastAPI · PostgreSQL · WhatsApp Business API
+**Experience**
 
----
+- Zennith AI, Full Stack Developer Intern, Sep 2025 to now (paused Jun to Jul 2026 for Accenture): a document-extraction pipeline on FastAPI and Next.js components for upload and results.
+- Accenture, Associate Software Engineer Intern, Jun to Jul 2026: CI/CD for FastAPI and PostgreSQL services, then an agentic pharma compliance review system.
+- PixelTests, Software Development Intern, Dec 2024 to May 2025: a WhatsApp support pipeline that cut manual tickets by 80%. Employer numbers are my word.
 
-## 🛠️ Tech I Actually Use
+**Projects**
 
-| Area | Tools |
-|------|-------|
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | FastAPI, Node.js, Express |
-| **Database** | PostgreSQL, MongoDB |
-| **BaaS** | Supabase |
-| **Languages** | JavaScript, Python, Java |
-| **Tools** | Git, Docker, Postman |
+- [LeaveFlow](https://github.com/sriram36/LeaveFlow) ([live](https://leave-flow-cyan.vercel.app)): leave requests over WhatsApp, approvals on a web dashboard. FastAPI, PostgreSQL, WebSockets, Next.js. 29 backend tests.
+- [FinSight](https://github.com/sriram36/FinSight) ([live](https://finsight-wine-tau.vercel.app)): money advice where the model never does the arithmetic. A verifier checks every number against cited transactions. 60 tests.
+- [pharma-mlr-compliance](https://github.com/sriram36/pharma-mlr-compliance): a rule-based grader, 16 rules, one optionally LLM-assisted. Lookups go dictionary, then disk cache, then LLM.
 
----
+**Stack.** Languages: Python, TypeScript, JavaScript, Java, SQL. Backend: FastAPI, Django, Node.js, PostgreSQL, WebSockets, JWT, Pytest. Frontend: Next.js, React, Tailwind CSS. Ai: LangGraph, Azure OpenAI, RAG, LLM evaluation. Tools: Docker, Git, Playwright, n8n.
 
+**Latest pushes.** [Portfolio](https://github.com/sriram36/Portfolio) | [Scout](https://github.com/sriram36/Scout) | [pharma-mlr-compliance](https://github.com/sriram36/pharma-mlr-compliance) | [FinSight](https://github.com/sriram36/FinSight) | [RefillCare](https://github.com/sriram36/RefillCare)
 
-## 📫 Get In Touch
+**Contact.** kollisriram6@gmail.com | [LinkedIn](https://www.linkedin.com/in/sriram-kolli-979723219) | [Portfolio](https://portfolio.kollisriram6.workers.dev)
 
-If you're working on something interesting or want to talk systems/backend — reach out.
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriram-kolli-979723219)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kollisriram6@gmail.com)
+<p align="center"><sub>Generated by <a href="build.py">build.py</a> and rebuilt every Monday by a GitHub Action.</sub></p>
