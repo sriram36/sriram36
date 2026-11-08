@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="sriram. Backend-focused full-stack engineer in Bengaluru. Open to internships and entry-level roles." width="100%">
+<img src="banner.svg" alt="sriram. Backend-focused full-stack engineer in India. Open to internships and entry-level roles." width="100%">
 
 <p align="center">
 <a href="https://portfolio.kollisriram6.workers.dev"><img src="pill-portfolio.svg" alt="Portfolio"></a>
