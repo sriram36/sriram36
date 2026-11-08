@@ -103,20 +103,20 @@ def banner(version):
         + text(36, 48, '$', 14, MINT) + text(52, 48, cmd, 14, MUT, extra=' clip-path="url(#c)"')
         + text(36, 76, 'HTTP/1.1 200 OK', 14, MINT, begin=2.1)
         + ''.join(text(W - 36, 48 + i * 19, h, 12.5, DIM, anchor='end', begin=2.3 + i * 0.2) for i, h in enumerate(
-            ['x-location: bengaluru', 'x-internships: 3', 'x-deployed-apps: 2', 'x-version: ' + version]))
+            ['x-location: india', 'x-internships: 3', 'x-deployed-apps: 2', 'x-version: ' + version]))
         + text(36, 140, 'Sriram Kolli', 54, TXT, SANS, 600, begin=2.4, extra=' letter-spacing="-1.5"')
         + text(36, 176, 'Backend-focused full-stack engineer. FastAPI, PostgreSQL, agentic AI.', 19, MUT, SANS, begin=2.9)
         + '<g opacity="0"><circle cx="42" cy="210" r="4.5" fill="%s"/>'
           '<circle cx="42" cy="210" r="4.5" fill="none" stroke="%s"><animate attributeName="r" values="4.5;12" dur="2.4s" repeatCount="indefinite"/>'
           '<animate attributeName="stroke-opacity" values=".7;0" dur="2.4s" repeatCount="indefinite"/></circle>' % (MINT, MINT)
-        + text(60, 215, 'Open to internships and entry-level roles. Bengaluru or remote.', 15, '#c9d1d9', SANS)
+        + text(60, 215, 'Open to internships and entry-level roles. India or remote.', 15, '#c9d1d9', SANS)
         + fade(3.4) + '</g>'
         # a thin light that sweeps along the bottom edge now and then
         + '<defs><linearGradient id="sw"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".7"/>'
           '<stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>'
           '<rect x="-240" y="%d" width="240" height="1.5" fill="url(#sw)"><animate attributeName="x" values="-240;%d;%d" keyTimes="0;.37;1" begin="4s" dur="7s" repeatCount="indefinite"/></rect>'
           % (H - 2, W, W))
-    return frame(W, H, 'sriram. Backend-focused full-stack engineer in Bengaluru. Open to internships and entry-level roles.', body)
+    return frame(W, H, 'sriram. Backend-focused full-stack engineer in India. Open to internships and entry-level roles.', body)
 
 
 # ----------------------------------------------------------------------------- career as a git graph
@@ -228,7 +228,7 @@ def card(name, status, colour, desc, pills, foot, pulse, flow, spark=None):
 
 
 CARDS = [
-    ('card-leaveflow.svg', 'LeaveFlow', 'deployed', ACC, 'Leave requests over WhatsApp, approvals on a web dashboard.', ['FastAPI', 'PostgreSQL', 'Next.js'], '29 backend tests', True,
+    ('card-leaveflow.svg', 'LeaveFlow', 'deployed', ACC, 'Leave requests over WhatsApp, approvals on a web dashboard.', ['FastAPI', 'PostgreSQL', 'Next.js'], '65 backend tests', True,
      'https://github.com/sriram36/LeaveFlow', 'whatsapp > fastapi > postgres'),
     ('card-finsight.svg', 'FinSight', 'deployed', ACC, 'Money advice where the model never does the arithmetic. A verifier checks every number.', ['FastAPI', 'Next.js', 'Postgres'], '60 tests', True,
      'https://github.com/sriram36/FinSight', 'python math > llm advice > verifier'),
@@ -377,7 +377,7 @@ def hire():
     W, H = 830, 150
     s = [
         text(36, 44, '$', 14, ACC) + text(52, 44, 'curl -X POST github.com/sriram36/hire', 14, MUT),
-        text(36, 76, '{ "wanted": "internship, entry-level backend or full-stack", "where": "Bengaluru or remote" }', 13, '#c9d1d9', begin=0.6),
+        text(36, 76, '{ "wanted": "internship, entry-level backend or full-stack", "where": "India or remote" }', 13, '#c9d1d9', begin=0.6),
         text(36, 108, 'HTTP/1.1 202 Accepted', 14, ACC, begin=1.4),
         text(36, 132, 'kollisriram6@gmail.com', 14, TXT, begin=1.9),
     ]
@@ -406,7 +406,7 @@ def pill(label, primary):
 
 
 # ----------------------------------------------------------------------------- README
-README ="""<img src="banner.svg" alt="sriram. Backend-focused full-stack engineer in Bengaluru. Open to internships and entry-level roles." width="100%">
+README ="""<img src="banner.svg" alt="sriram. Backend-focused full-stack engineer in India. Open to internships and entry-level roles." width="100%">
 
 <p align="center">
 {pills}
@@ -432,7 +432,7 @@ README ="""<img src="banner.svg" alt="sriram. Backend-focused full-stack enginee
 
 <br>
 
-**Sriram Kolli.** Backend-focused full-stack engineer in Bengaluru, India. Final-year B.Tech in Computer Science and Information Technology (SRKR Engineering College, 2023 to 2027). I build FastAPI and PostgreSQL services, agentic AI pipelines and workflow automation. Open to software engineering internships and entry-level backend or full-stack roles, in Bengaluru or remote.
+**Sriram Kolli.** Backend-focused full-stack engineer in India. Final-year B.Tech in Computer Science and Information Technology (SRKR Engineering College, 2023 to 2027). I build FastAPI and PostgreSQL services, agentic AI pipelines and workflow automation. Open to software engineering internships and entry-level backend or full-stack roles, in India or remote.
 
 **Experience**
 
@@ -442,7 +442,7 @@ README ="""<img src="banner.svg" alt="sriram. Backend-focused full-stack enginee
 
 **Projects**
 
-- [LeaveFlow](https://github.com/sriram36/LeaveFlow) ([live](https://leave-flow-cyan.vercel.app)): leave requests over WhatsApp, approvals on a web dashboard. FastAPI, PostgreSQL, WebSockets, Next.js. 29 backend tests.
+- [LeaveFlow](https://github.com/sriram36/LeaveFlow) ([live](https://leave-flow-cyan.vercel.app)): leave requests over WhatsApp, approvals on a web dashboard. FastAPI, PostgreSQL, WebSockets, Next.js. 65 backend tests.
 - [FinSight](https://github.com/sriram36/FinSight) ([live](https://finsight-wine-tau.vercel.app)): money advice where the model never does the arithmetic. A verifier checks every number against cited transactions. 60 tests.
 - [pharma-mlr-compliance](https://github.com/sriram36/pharma-mlr-compliance): a rule-based grader, 16 rules, one optionally LLM-assisted. Lookups go dictionary, then disk cache, then LLM.
 

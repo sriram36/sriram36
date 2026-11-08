@@ -28,7 +28,7 @@
 <rect x="231.4" y="42.0" width="2.4" height="2.0" rx="1" fill="#fff" fill-opacity="0.45"/>
 <rect x="235.1" y="42.0" width="2.4" height="2.0" rx="1" fill="#fff" fill-opacity="0.45"/>
 <rect x="238.8" y="42.0" width="2.4" height="2.0" rx="1" fill="#fff" fill-opacity="0.45"/>
-<rect x="242.5" y="42.0" width="2.4" height="2.0" rx="1" fill="#6ee7b7" fill-opacity="1"/>
+<rect x="242.5" y="40.6" width="2.4" height="3.4" rx="1" fill="#6ee7b7" fill-opacity="1"/>
 <text x="244" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#5f5f5f" text-anchor="end">weekly commits</text>
 <circle cx="27" cy="31" r="4" fill="#6ee7b7"/>
 <circle cx="27" cy="31" r="4" fill="none" stroke="#6ee7b7"><animate attributeName="r" values="4;11" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".7;0" dur="2.4s" repeatCount="indefinite"/></circle>
@@ -43,6 +43,6 @@
 <text x="129.8" y="193" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#fafafa" text-anchor="middle">PostgreSQL</text>
 <rect x="176" y="178" width="60.8" height="22" rx="11" fill="none" stroke="#fff" stroke-opacity=".22"/>
 <text x="207.2" y="193" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#fafafa" text-anchor="middle">Next.js</text>
-<text x="22" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#5f5f5f">29 backend tests</text>
+<text x="22" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#5f5f5f">65 backend tests</text>
 <text x="244" y="222" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#6ee7b7" text-anchor="end">open</text>
 </svg>

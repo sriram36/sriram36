@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="sriram. Backend-focused full-stack engineer in Bengaluru. Open to internships and entry-level roles." width="100%">
+<img src="banner.svg" alt="sriram. Backend-focused full-stack engineer in India. Open to internships and entry-level roles." width="100%">
 
 <p align="center">
 <a href="https://portfolio.kollisriram6.workers.dev"><img src="pill-portfolio.svg" alt="Portfolio"></a>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="languages.svg" width="49%" alt="Languages by bytes of code in my public repos: Python 43%, TypeScript 31%, JavaScript 15%, HTML 5%, CSS 4%, Shell 1%, other 1%.">
+<img src="languages.svg" width="49%" alt="Languages by bytes of code in my public repos: Python 44%, TypeScript 30%, JavaScript 15%, HTML 5%, CSS 4%, Shell 1%, other 1%.">
 <img src="heartbeat.svg" width="49%" alt="My public pushes over the last 60 days as a heartbeat line: 95 commits in 95 pushes.">
 </p>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-**Sriram Kolli.** Backend-focused full-stack engineer in Bengaluru, India. Final-year B.Tech in Computer Science and Information Technology (SRKR Engineering College, 2023 to 2027). I build FastAPI and PostgreSQL services, agentic AI pipelines and workflow automation. Open to software engineering internships and entry-level backend or full-stack roles, in Bengaluru or remote.
+**Sriram Kolli.** Backend-focused full-stack engineer in India. Final-year B.Tech in Computer Science and Information Technology (SRKR Engineering College, 2023 to 2027). I build FastAPI and PostgreSQL services, agentic AI pipelines and workflow automation. Open to software engineering internships and entry-level backend or full-stack roles, in India or remote.
 
 **Experience**
 
@@ -39,13 +39,13 @@
 
 **Projects**
 
-- [LeaveFlow](https://github.com/sriram36/LeaveFlow) ([live](https://leave-flow-cyan.vercel.app)): leave requests over WhatsApp, approvals on a web dashboard. FastAPI, PostgreSQL, WebSockets, Next.js. 29 backend tests.
+- [LeaveFlow](https://github.com/sriram36/LeaveFlow) ([live](https://leave-flow-cyan.vercel.app)): leave requests over WhatsApp, approvals on a web dashboard. FastAPI, PostgreSQL, WebSockets, Next.js. 65 backend tests.
 - [FinSight](https://github.com/sriram36/FinSight) ([live](https://finsight-wine-tau.vercel.app)): money advice where the model never does the arithmetic. A verifier checks every number against cited transactions. 60 tests.
 - [pharma-mlr-compliance](https://github.com/sriram36/pharma-mlr-compliance): a rule-based grader, 16 rules, one optionally LLM-assisted. Lookups go dictionary, then disk cache, then LLM.
 
 **Stack.** Languages: Python, TypeScript, JavaScript, Java, SQL. Backend: FastAPI, Django, Node.js, PostgreSQL, WebSockets, JWT, Pytest. Frontend: Next.js, React, Tailwind CSS. Ai: LangGraph, Azure OpenAI, RAG, LLM evaluation. Tools: Docker, Git, Playwright, n8n.
 
-**Latest pushes.** [Portfolio](https://github.com/sriram36/Portfolio) | [Scout](https://github.com/sriram36/Scout) | [pharma-mlr-compliance](https://github.com/sriram36/pharma-mlr-compliance) | [FinSight](https://github.com/sriram36/FinSight) | [RefillCare](https://github.com/sriram36/RefillCare)
+**Latest pushes.** [LeaveFlow](https://github.com/sriram36/LeaveFlow) | [Portfolio](https://github.com/sriram36/Portfolio) | [Scout](https://github.com/sriram36/Scout) | [pharma-mlr-compliance](https://github.com/sriram36/pharma-mlr-compliance) | [FinSight](https://github.com/sriram36/FinSight)
 
 **Contact.** kollisriram6@gmail.com | [LinkedIn](https://www.linkedin.com/in/sriram-kolli-979723219) | [Portfolio](https://portfolio.kollisriram6.workers.dev)
 
