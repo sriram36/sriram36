@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-<img src="languages.svg" width="49%" alt="Languages by bytes of code in my public repos: Python 44%, TypeScript 30%, JavaScript 15%, HTML 5%, CSS 4%, Shell 1%, other 1%.">
-<img src="heartbeat.svg" width="49%" alt="My public pushes over the last 60 days as a heartbeat line: 113 commits in 113 pushes.">
+<img src="languages.svg" width="49%" alt="Languages by bytes of code in my public repos: Python 47%, TypeScript 27%, JavaScript 16%, HTML 5%, CSS 4%, Shell 1%, other 1%.">
+<img src="heartbeat.svg" width="49%" alt="My public pushes over the last 60 days as a heartbeat line: 121 commits in 121 pushes.">
 </p>
 
 <img src="stack.svg" alt="Stack. Languages: Python, TypeScript, JavaScript, Java, SQL. Backend: FastAPI, Django, Node.js, PostgreSQL, WebSockets, JWT, Pytest. Frontend: Next.js, React, Tailwind CSS. Ai: LangGraph, Azure OpenAI, RAG, LLM evaluation. Tools: Docker, Git, Playwright, n8n." width="100%">
@@ -45,7 +45,7 @@
 
 **Stack.** Languages: Python, TypeScript, JavaScript, Java, SQL. Backend: FastAPI, Django, Node.js, PostgreSQL, WebSockets, JWT, Pytest. Frontend: Next.js, React, Tailwind CSS. Ai: LangGraph, Azure OpenAI, RAG, LLM evaluation. Tools: Docker, Git, Playwright, n8n.
 
-**Latest pushes.** [LeaveFlow](https://github.com/sriram36/LeaveFlow) | [Portfolio](https://github.com/sriram36/Portfolio) | [Scout](https://github.com/sriram36/Scout) | [pharma-mlr-compliance](https://github.com/sriram36/pharma-mlr-compliance) | [FinSight](https://github.com/sriram36/FinSight)
+**Latest pushes.** [NomadGrid](https://github.com/sriram36/NomadGrid) | [LeaveFlow](https://github.com/sriram36/LeaveFlow) | [Portfolio](https://github.com/sriram36/Portfolio) | [Scout](https://github.com/sriram36/Scout) | [pharma-mlr-compliance](https://github.com/sriram36/pharma-mlr-compliance)
 
 **Contact.** kollisriram6@gmail.com | [LinkedIn](https://www.linkedin.com/in/sriram-kolli-979723219) | [Portfolio](https://portfolio.kollisriram6.workers.dev)
 
